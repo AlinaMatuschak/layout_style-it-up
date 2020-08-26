@@ -1,0 +1,2 @@
+body{margin:0}#header{background-color:#00f}.important{background-color:red}.interesting{background-color:green}.surprising{background-color:orange}#footer{background-color:#000}#footer,#header,.important,.interesting,.surprising{margin:0 auto;height:100px;width:300px}.important:hover,.interesting:hover,.surprising:hover{height:200px}
+/*# sourceMappingURL=style.c3abf338.css.map */
